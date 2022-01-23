@@ -1,0 +1,4 @@
+bs4 == 0.0.1
+firebase_admin == 4.4.0
+lxml == 4.5.2
+requests == 2.24.0
